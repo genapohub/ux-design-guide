@@ -39,7 +39,6 @@ zip -r ux-design-guide.zip ux-design-guide/ ~/.workbuddy/skills/ux-design-guide
 # 先下载并打包
 git clone https://github.com/genapohub/ux-design-guide.git
 zip -r ux-design-guide.zip ux-design-guide/
-zip -r ux-design-guide.zip ux-design-guide/
 ```
 然后在 WorkBuddy 桌面端 → **技能市场** → **添加技能/上传技能** → **点击"跳过检测，直接安装"**。
 
