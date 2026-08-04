@@ -30,13 +30,15 @@ UI设计、UX设计、交互设计、界面设计、设计系统、设计规范�
 **方式一：克隆到 skills 目录**
 ```bash
 # 克隆到 workbuddy skill 目录（全局可用）
-git clone https://github.com/genapohub/ux-design-guide.git ~/.workbuddy/skills/ux-design-guide
+git clone https://github.com/genapohub/ux-design-guide.git
+zip -r ux-design-guide.zip ux-design-guide/ ~/.workbuddy/skills/ux-design-guide
 ```
 
 **方式二：ZIP导入**
 ```bash
 # 先下载并打包
 git clone https://github.com/genapohub/ux-design-guide.git
+zip -r ux-design-guide.zip ux-design-guide/
 zip -r ux-design-guide.zip ux-design-guide/
 ```
 然后在 WorkBuddy 桌面端 → **技能市场** → **添加技能/上传技能** → **点击"跳过检测，直接安装"**。
@@ -47,6 +49,7 @@ zip -r ux-design-guide.zip ux-design-guide/
 ```bash
 # 先下载并打包
 git clone https://github.com/genapohub/ux-design-guide.git
+zip -r ux-design-guide.zip ux-design-guide/
 ```
 然后在 Trae → **设置** → **Rules & Skills** → **创建** → 上传 `ux-design-guide.zip`。
 
@@ -54,10 +57,12 @@ git clone https://github.com/genapohub/ux-design-guide.git
 
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/genapohub/ux-design-guide.git ~/.codex/skills/ux-design-guide
+git clone https://github.com/genapohub/ux-design-guide.git
+zip -r ux-design-guide.zip ux-design-guide/ ~/.codex/skills/ux-design-guide
 
 # 或使用 cc switch (推荐)
-git clone https://github.com/genapohub/ux-design-guide.git ~/.cc-switch/skills/ux-design-guide
+git clone https://github.com/genapohub/ux-design-guide.git
+zip -r ux-design-guide.zip ux-design-guide/ ~/.cc-switch/skills/ux-design-guide
 ```
 
 重启 CC Switch客户端/Codex客户端 后自动发现。也可以在对话中输入 `$ux-design-guide` 手动调用。
@@ -65,7 +70,8 @@ git clone https://github.com/genapohub/ux-design-guide.git ~/.cc-switch/skills/u
 ### Cursor
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/genapohub/ux-design-guide.git ~/.cursor/skills-cursor/ux-design-guide
+git clone https://github.com/genapohub/ux-design-guide.git
+zip -r ux-design-guide.zip ux-design-guide/ ~/.cursor/skills-cursor/ux-design-guide
 ```
 
 重启 Cursor客户端 后自动发现。也可以在对话中输入 `$ux-design-guide` 手动调用。
