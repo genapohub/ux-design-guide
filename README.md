@@ -32,14 +32,6 @@ UI设计、UX设计、交互设计、界面设计、设计系统、设计规范�
 git clone https://github.com/genapohub/ux-design-guide.git ~/.workbuddy/skills/ux-design-guide
 ```
 
-**方式二：ZIP导入**
-```bash
-# 先下载并打包
-git clone https://github.com/genapohub/ux-design-guide.git
-zip -r ux-design-guide.zip ux-design-guide/
-```
-然后在 WorkBuddy 桌面端 → **技能市场** → **添加技能/上传技能** → **点击"跳过检测，直接安装"**。
-
 ### Trae
 
 **ZIP 导入**
