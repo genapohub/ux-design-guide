@@ -75,20 +75,6 @@ git clone https://github.com/genapohub/ux-design-guide.git ~/.cursor/skills-curs
 帮我出个登录页的交互方案
 ```
 
----
-
-## 目录结构
-
-```
-ux-design-guide/
-├── SKILL.md                  # 主指令
-├── README.md
-├── LICENSE
-├── .gitignore
-└── references/
-    └── UX设计方法论.md         # 详细方法论
-```
-
 ## 许可
 
 [MIT](LICENSE) © zhangmengbo
